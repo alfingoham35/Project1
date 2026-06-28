@@ -1,5 +1,5 @@
 # Project1
-<center><img src="asset/data-banner.jpg"></img></center>
+<center><img src="Asset/Slide1.jpg"></img></center>
 
 Project_Based bertujuan untuk melihat hasil portfolio 
 
